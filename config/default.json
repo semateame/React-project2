@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://HIMBOL:fnFnLpjCfnxcnfcC@ysw-30yxq.mongodb.net/moneyTransfer",
+    "jwtSecret":"ysw"
+}
+

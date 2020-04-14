@@ -1,0 +1,20 @@
+.Post {
+    height: 1000px;
+    width: 800px;
+    padding: 16px;
+    text-align: center;
+    border: 5px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin:36px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.Title{
+    text-align: left;
+}
+
+.Author {
+    margin: 16px 0;
+    color: #ccc;
+}
